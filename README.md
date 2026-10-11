@@ -14,6 +14,10 @@ The project uses WeatherAPI to retrieve weather and air quality data, Power Quer
 - **WeatherAPI** — Weather forecast and air quality data
 - **REST API & JSON** — Data retrieval and processing
 
+## 📸 Dashboard Preview
+
+![Weather and Air Quality Dashboard](Images/dashboard.png)
+
 ## 📊 Key Features
 
 - **City Selection:** Switch between cities using an interactive slicer.
